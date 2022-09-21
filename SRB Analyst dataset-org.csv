@@ -1,0 +1,26 @@
+#,Abbr_Name,Organism name,Taxo ID,Annotated Gene#,Type,Description
+1,apo,Archaeoglobus profundus,T01152,576,SRB,Prokaryotes;Archaea;Euryarchaeota;Archaeoglobus
+2,ast,Archaeoglobus sulfaticallidus,T02642,689,SRB,Prokaryotes;Archaea;Euryarchaeota;Archaeoglobus
+3,ave,Archaeoglobus veneficus,T01451,660,SRB,Prokaryotes;Archaea;Euryarchaeota;Archaeoglobus
+4,dpr,Desulfobulbus propionicus,T01413,1020,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfobulbus
+5,dml,Desulfococcus multivorans,T04568,1010,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfococcus
+6,dba,Desulfomicrobium baculatum,T00963,1070,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfomicrobium
+7,doa,Desulfomicrobium orale,T04289,850,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfomicrobium
+8,dti,Desulfomonile tiedjei,T02147,1292,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfomonile
+9,dae,Desulfotomaculum acetoxidans,T00986,973,SRB,Prokaryotes;Bacteria;Firmicutes - Clostridia;Desulfofarcimen
+10,dfg,Desulfotomaculum ferrireducens,T04823,860,SRB,Prokaryotes;Bacteria;Firmicutes - Clostridia;Desulfotomaculum
+11,dgi,Desulfotomaculum gibsoniae,T02657,1161,SRB,Prokaryotes;Bacteria;Firmicutes - Clostridia;Desulfallas
+12,dku,Desulfotomaculum kuznetsovii,T01499,1007,SRB,Prokaryotes;Bacteria;Firmicutes - Clostridia;Desulfofundulus
+13,dca,Desulfotomaculum nigrificans,T01498,922,SRB,Prokaryotes;Bacteria;Firmicutes - Clostridia;Desulfotomaculum
+14,drm,Desulfotomaculum reducens,T00494,973,SRB,Prokaryotes;Bacteria;Firmicutes - Clostridia;Desulfotomaculum
+15,dru,Desulfotomaculum ruminis,T01518,1053,SRB,Prokaryotes;Bacteria;Firmicutes - Clostridia;Desulfotomaculum
+16,daf,Desulfovibrio africanus,T01662,1069,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfocurvibacter
+17,dde,Desulfovibrio alaskensis,T00294,1045,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfovibrio
+18,dgg,Desulfovibrio gigas,T02851,980,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfovibrio
+19,dhy,Desulfovibrio hydrothermalis,T02428,1078,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfovibrio
+20,dma,Desulfovibrio magneticus,T00917,1077,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfovibrio
+21,dpi,Desulfovibrio piezophilus,T02481,1012,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Pseudodesulfovibrio
+22,dpg,Desulfovibrio piger,T04638,756,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfovibrio
+23,dsa,Desulfovibrio salexigens,T00969,1142,SRB,Prokaryotes;Bacteria;Deltaproteobacteria;Desulfovibrio
+24,tcm,Thermodesulfobacterium commune,T03212,574,SRB,Prokaryotes;Bacteria;Thermodesulfobacteria;Thermodesulfobacterium
+25,top,Thermodesulfobacterium geofontis,T01547,637,SRB,Prokaryotes;Bacteria;Thermodesulfobacteria;Thermodesulfobacterium
